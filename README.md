@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mohantayade.vercel.app/](https://mohantayade.vercel.app/)
 
-- 💬 Ask me about **React , NextJS and NodeJS**
+- 💬 Ask me about **React, Astro, NextJS and NodeJS**
 
 - 📫 How to reach me **mohantayadeofficial@gmail.com**
 
